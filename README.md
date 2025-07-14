@@ -9,26 +9,6 @@ Hello, again and u reach TheBlackDev's github! I'm a passionate <strong>Full-Sta
 - **Platforms**: Linux, Windows, Raspberry PI
 - **Cybersecurity**: Ethical Hacking, Full-Stack Dev
 
-## 🧑‍💻 Current Projects
-
-### **1. Agressive Bull**
-A hacking laptop designed for testing password cracking tools and cybersecurity techniques.
-This project is ahhh, hard and I didn't even start.
-**Status**: Sometimes start (I'm broke)
-
-### **2. HTML Web Voyager**
-A program in python that is designed for scraping data from websites and crawling.
-Just like Google does.
-**Status**: Development
-
-### **3. Vic - My Own Programming Language**
-A language that I am developing for learning.   
-**Status**: Development
-
-### **4. Blockchain Mastery**
-My own blockchain that ... is hard.
-**Status**: Research
-
 ## What I'm Learning
 - Blockchain & Cryptocurrency
 - Artificial Intelligence and Machine Learning
@@ -36,7 +16,7 @@ My own blockchain that ... is hard.
 - Cracking firmware
 - Revers Engineer
 ## More about me
-I am just a bro that lives on other side of world and is good at PC stuff. Sentence behind this sentence is everthing.
+I am just a bro that lives on other side of world and is good at PC stuff. Sentence behind that sentence is everthing.
 ## How to reach me
 - Ehhhh, ummmm, erm
 - I dunno
