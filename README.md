@@ -15,6 +15,7 @@ Hello, again and u reach TheBlackDev's github! I'm a passionate <strong>Full-Sta
 - OS and Firmware Development
 - Cracking firmware
 - Revers Engineer
+- But nobody cares about that, hmmm ?
 ## More about me
 I am just a bro that lives on other side of world and is good at PC stuff. Sentence behind that sentence is everthing.
 ## How to reach me
